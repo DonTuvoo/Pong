@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\fhof1\Desktop\asfasfas\UnNombreCualquiera\Main.c(126,56): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  UnNombreCualquiera.vcxproj -> C:\Users\fhof1\Desktop\asfasfas\UnNombreCualquiera\x64\Debug\UnNombreCualquiera.exe
